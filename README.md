@@ -8,3 +8,5 @@ Run the sketch, enter the state machine and up to 10 states.  enter "#" to gener
 Copy code from serial monitor to a new sketch
 
 Edit the state functions to create a functional state machine
+
+The example ledFlasherExample.ino requires Metro library https://github.com/thomasfredericks/Metro-Arduino-Wiring
